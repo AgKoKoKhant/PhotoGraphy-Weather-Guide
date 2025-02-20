@@ -25,25 +25,6 @@ Make sure you have the following installed:
 - Node.js & npm
 - Git
 
-### Steps to Install
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/PhotoGraphy-Weather-Guide.git
-   ```
-2. Navigate into the project folder:
-   ```sh
-   cd PhotoGraphy-Weather-Guide
-   ```
-3. Install dependencies:
-   ```sh
-   npm install
-   ```
-4. Create a `.env` file in the root directory and add the following:
-   ```env
-   UNSPLASH_API_KEY=your_unsplash_api_key
-   OPENWEATHER_API_KEY=your_openweather_api_key
-   GEODB_CITIES_API_KEY=your_geodb_api_key
-   ```
 
 ## Usage
 1. Start the server:
